@@ -1,0 +1,16 @@
+name: \U0001F9D0 Improvement Idea
+description: Something can be improved
+title: \U0001F9D0 Improvement Idea
+labels:
+  - Idea
+assignees: Angryman18
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your effor is appreciated.
+  - type: textarea
+    attributes:
+      label: Share your idea for improvement
+    validations:
+      required: true

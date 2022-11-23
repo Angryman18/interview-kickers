@@ -1,0 +1,12 @@
+name: \U0001F913 Thoughts
+description: You think of something
+title: \U0001F913 Thoughts
+labels:
+  - Thought
+assignees: Angryman18
+body:
+  - type: textarea
+    attributes:
+      label: Share your thoughts
+    validations:
+      required: true
